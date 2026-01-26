@@ -1,0 +1,23 @@
+Git >> Version Control
+
+>> It is distributed (on cloud)
+>> Collaboration 
+>> Tracking Changes
+>> Recovery
+
+git config --global user.name "Keshri17061"
+git config --global user.email "amankeshri17061"
+git config --global color.ui auto
+
+Mandatory Commands:
+>> git init
+>> git remote add origin local link
+
+git pull origin main
+
+steps to upload files on girnub 
+git status
+git add .
+git status
+git commit -m "Commit Messages"
+git push --set-upstream origin master
