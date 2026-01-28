@@ -6,13 +6,13 @@ Selector Type{
 */
 
 /* 1. Element Selector */
-p{
+/* p{
     color: red;
 }
 h2{
     color: white;
     background-color: black;
-}
+} */
 
 /* 2. ID Selector */
 #pId{
