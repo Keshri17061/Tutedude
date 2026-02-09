@@ -21,3 +21,12 @@ h2{
 #p1Id{
     font-family: cursive;
 }
+
+/* 3. Class Selector */
+.highlighter{
+    background-color: yellow;
+}
+.headingstyles{
+    font-size: larger;
+    color: red;
+}
